@@ -97,16 +97,10 @@
 </div>
 
 ### Spotify Playing
-<a href="https://github.com/tthn0/Spotify-Readme">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://vypergamer.pythonanywhere.com?theme=light&scan=true&eq_color=rainbow"
-    />
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://vypergamer.pythonanywhere.com?theme=dark&scan=true&eq_color=rainbow"
-    />
-    <img alt="Current Spotify Song"> <!-- https://github.com/tthn0/Spotify-Readme -->
-  </picture>
+
+<a href="https://vypergamer.pythonanywhere.com/link">
+  <img
+    src="https://vypergamer.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
 </a>
