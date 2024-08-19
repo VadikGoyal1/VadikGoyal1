@@ -96,8 +96,17 @@
   <img src="https://profile-counter.glitch.me/VadikGoyal1/count.svg?"  />
 </div>
 
-### Pin 
-[![Readme Card](https://github-readme-stats-vadikgoyal1s-projects.vercel.app/api/pin/?username=VadikGoyal1&repo=Coffee-Responsive-Website)](https://github.com/VadikGoyal1/Coffee-Responsive-Website)
+### My First Project Pin 
+<details>
+<div align="center">
+<a href="https://github.com/VadikGoyal1/Coffee-Responsive-Website">
+  <img
+    src="https://github-readme-stats-vadikgoyal1s-projects.vercel.app/api/pin/?username=VadikGoyal1&repo=Coffee-Responsive-Website"
+    alt="Current Spotify Song"
+  />
+</a>
+</div>
+</details>
 
 ### Spotify Playing
 
