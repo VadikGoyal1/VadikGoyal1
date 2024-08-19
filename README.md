@@ -113,7 +113,7 @@
 <div align="center">
 <a href="https://vypergamer.pythonanywhere.com/link">
   <img
-    src="https://vypergamer.pythonanywhere.com?theme=dark"
+    src="https://vypergamer.pythonanywhere.com?theme=dark?scan=true"
     alt="Current Spotify Song"
   />
 </a>
