@@ -98,9 +98,11 @@
 
 ### Spotify Playing
 
+<div align="center">
 <a href="https://vypergamer.pythonanywhere.com/link">
   <img
-    src="https://vypergamer.pythonanywhere.com"
+    src="https://vypergamer.pythonanywhere.com?theme=dark"
     alt="Current Spotify Song"
   />
 </a>
+</div>
