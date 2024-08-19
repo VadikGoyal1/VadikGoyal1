@@ -81,7 +81,6 @@
 <a href="https://buymeacoffee.com/VYPER_GAMER" target="_blank">
     <img src="https://biocyclopedia.com/images/buy-us-a-coffee.png" height="35" alt="buymeacoffee logo"  />
   </a>
-<a href="#" target="_blank"> <img src="https://komarev.com/ghpvc/?username=vadikgoyal1&label=Profile%20views&color=0e75b6&style=flat" height="25" alt="vadikgoyal1&theme=dracula" /> </a>
 </div>
 
 ###
