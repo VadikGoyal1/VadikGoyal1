@@ -96,8 +96,17 @@
   <img src="https://profile-counter.glitch.me/VadikGoyal1/count.svg?"  />
 </div>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/txod0ekwttolbqy5f2wpbek7i">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=txod0ekwttolbqy5f2wpbek7i&count=4&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+### Spotify Playing
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://vypergamer.pythonanywhere.com?theme=light&scan=true&eq_color=rainbow"
+    />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://vypergamer.pythonanywhere.com?theme=dark&scan=true&eq_color=rainbow"
+    />
+    <img alt="Current Spotify Song"> <!-- https://github.com/tthn0/Spotify-Readme -->
+  </picture>
+</a>
