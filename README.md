@@ -104,6 +104,12 @@
     alt="Current Spotify Song"
   />
 </a>
+<a href="https://github.com/VadikGoyal1/Portfolio-template">
+  <img
+    src="https://github-readme-stats-vadikgoyal1s-projects.vercel.app/api/pin/?username=VadikGoyal1&repo=Portfolio-template&theme=tokyonight"
+    alt="Current Spotify Song"
+  />
+</a>
 </div>
 </details>
 
