@@ -100,7 +100,7 @@
 <div align="center">
 <a href="https://github.com/VadikGoyal1/Coffee-Responsive-Website">
   <img
-    src="https://github-readme-stats-vadikgoyal1s-projects.vercel.app/api/pin/?username=VadikGoyal1&repo=Coffee-Responsive-Website"
+    src="https://github-readme-stats-vadikgoyal1s-projects.vercel.app/api/pin/?username=VadikGoyal1&repo=Coffee-Responsive-Website&theme=tokyonight"
     alt="Current Spotify Song"
   />
 </a>
