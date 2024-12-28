@@ -49,6 +49,9 @@
 <a href="https://www.blender.org/download/" target="_blank">
   <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
 </a>
+<a href="https://www.blackmagicdesign.com/products/davinciresolve/studio" target="_blank">
+  <img src="https://img.icons8.com/?size=160&id=40604" height="30" alt="davinci resolve logo"  />
+</a>
 </div>
 
 ###
