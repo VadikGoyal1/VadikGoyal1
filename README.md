@@ -125,6 +125,6 @@
 
 ### Spotify Playing
 
-[![Spotify](https://novatorem-one-psi.vercel.app/api/spotify)](https://open.spotify.com/user/txod0ekwttolbqy5f2wpbek7i)
+[![Spotify](https://vadikgoyal.vercel.app/api/spotify)](https://open.spotify.com/user/txod0ekwttolbqy5f2wpbek7i)
 
 ###
