@@ -125,10 +125,6 @@
 
 ### Spotify Playing
 
-<div align="center">
-  <a href="https://open.spotify.com/user/txod0ekwttolbqy5f2wpbek7i">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=txod0ekwttolbqy5f2wpbek7i&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+[![Spotify](https://novatorem-one-psi.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 ###
