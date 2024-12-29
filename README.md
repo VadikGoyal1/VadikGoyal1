@@ -125,6 +125,6 @@
 
 ### Spotify Playing
 
-[![Spotify](https://vadikgoyal.vercel.app/api/spotify)](https://open.spotify.com/user/txod0ekwttolbqy5f2wpbek7i)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=txod0ekwttolbqy5f2wpbek7i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=txod0ekwttolbqy5f2wpbek7i&redirect=true)
 
 ###
