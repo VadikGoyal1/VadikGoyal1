@@ -125,6 +125,6 @@
 
 ### Spotify Playing
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=txod0ekwttolbqy5f2wpbek7i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=txod0ekwttolbqy5f2wpbek7i&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=txod0ekwttolbqy5f2wpbek7i&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=txod0ekwttolbqy5f2wpbek7i&redirect=true)
 
 ###
