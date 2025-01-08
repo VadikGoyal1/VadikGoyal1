@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VadikGoyal1&theme=chartreuse-dark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="VadikGoyal1's GitHub Stats"  />
-  <img src="https://github-readme-stats-vadikgoyal1s-projects.vercel.app/api/top-langs?username=VadikGoyal1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&height=150&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Vadikgoyal1&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&height=150" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VadikGoyal1&theme=tokyonight&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="VadikGoyal1's GitHub Stats"  />
+  <img src="https://github-readme-stats-vadikgoyal1s-projects.vercel.app/api/top-langs?username=VadikGoyal1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&height=150&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Vadikgoyal1&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&height=150" height="150" alt="streak graph"  />
 </div>
 
 ###
